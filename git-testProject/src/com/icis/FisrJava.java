@@ -14,5 +14,6 @@ public class FisrJava {
         System.out.println("新增加了一个方法");
         int i=1;
         i+=10;
+        System.out.println("变量i的值是:"+i);
     }
 }
